@@ -15,6 +15,15 @@ I'm passionate about turning data into actionable insights and building intellig
 
 ## 💼 Professional Experience
 
+- **Data Analyst** @ Family Pharmacy (2023-Present)
+  -  Developed inventory management dashboard using SQL and Power BI, reducing stockouts by 32% and saving QAR 450,000 annually through optimised procurement decisions.
+
+  -  Created automated sales analytics reports using Python, analysing 15+ pharmacy locations, resulting in 25% increase in promotional effectiveness and 18% higher customer retention.
+
+  -  Implemented predictive models for medication expiry management, reducing waste by 40% and improving inventory turnover by 28% across all locations.
+
+  -  Designed prescription analysis system using R and Tableau, improving patient safety metrics by 45% while maintaining Qatar MOH compliance.
+
 - **Data Analyst** @ Chenoa Information and Software Solutions Pvt Ltd (2020-2022)
   - Developed analytics dashboards, improving prediction accuracy by 25%
   - Optimized data architecture, achieving an 80% reduction in latency
